@@ -62,7 +62,14 @@
     --light: #F6FFF2;
     --dark: #263A4F;
 }
-
+.w3-animate-bottom{
+    position: relative;
+    animation: all 0.3s ease-out 1s;
+}
+.w3-animate-bottom1{
+    position: relative;
+    animation: all 0.5s ease-out 1s;
+}
 .google-map {
     padding-bottom: 100%;
     position: relative;
