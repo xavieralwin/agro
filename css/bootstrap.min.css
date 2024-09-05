@@ -19,6 +19,7 @@
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
     --bs-primary: #34AD54;
+    --bs-primary1: #00D084;
     --bs-secondary: #f93;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
@@ -8344,7 +8345,7 @@ fieldset:disabled .btn {
 }
 .text-white1 {
     color: #fff !important;
-    font-weight: 800;
+    font-weight: 900;
 }
 
 
